@@ -28,6 +28,8 @@ Still Learning and Hunting
 * * *
 #### Google Africa Developer Scholarship (GADS)
 -   Mentor for Mobile Web Track, June 2020
+#### Google Africa Developer Scholarship (GADS)
+-   Mentor for Mobile Web Track, July 2021
 #### OSCA(Open Source Community Africa)
 -   Chapter Lead [@osca_adoekiti](https://twitter.com/osca_adoekiti)
 #### NoGoFallMaga
