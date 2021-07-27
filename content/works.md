@@ -36,7 +36,8 @@ Still Learning and Hunting
 -   Volunteer [@nogofallmaga](http://twitter.com/nogofallmaga)
 #### Diary Of Hackers(DoH)
 -   Campus Lead [@DoHEksu](https://twitter.com/DiaryOfHackers)
-
+#### DSC EKSU
+-   Joined the 2020/2021 [DSC EKSU Core Team](https://dsc.community.dev/ekiti-state-university/)
 ## Skills 
 * * *
 - Web Appplication Security
