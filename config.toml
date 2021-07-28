@@ -10,7 +10,7 @@ disqusShortname = "myfoliosite"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
-  ProfilePicture = "../images/saintmalik.jpg"
+  ProfilePicture = "../images/saintmalik2.jpeg"
 
   # Subtitle for home
   homeSubtitle = "Penetration Tester and Aspiring Security Engineer."
