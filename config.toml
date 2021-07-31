@@ -108,7 +108,7 @@ disqusShortname = "myfoliosite"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
+    url        = "https://blog.saintmalik.me"
   [[menu.main]]
     identifier = "talks"
     name       = "Talks"
