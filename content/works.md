@@ -9,10 +9,8 @@ name = "SaintMalik"
 
 ## Paid Experience
 * * *
-#### Freelance: Frontend Developer
- Freelance
-
- till present only on projects that can be completed in a week or two.
+#### Freelance: Pentesting
+Freelance
 
 #### Bug Bounty Hunter
 HackerOne, Intigriti
@@ -42,6 +40,5 @@ Still Learning and Hunting
 * * *
 - Web Appplication Security
 - Penetration Testing
-- Vuejs
 - Linux
-- The rest will be updated soon
+- The rest will be updated soon 👀
