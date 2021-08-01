@@ -15,3 +15,9 @@ from = "/how-i-found-my-first-bug/"
 to = "https://blog.saintmalik.me/how-i-found-my-first-bug"
 status = 301
 force = true
+
+[[redirects]]
+from = "/example-post/"
+to = "https://blog.saintmalik.me/hello-world"
+status = 301
+force = true
