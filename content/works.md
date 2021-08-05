@@ -22,23 +22,42 @@ Still Learning and Hunting
 #### Computer Science and Education
 , 2019-.
 
-## Volunteer Experience
-* * *
-#### Google Africa Developer Scholarship (GADS)
--   Mentor for Mobile Web Track, June 2020
-#### Google Africa Developer Scholarship (GADS)
--   Mentor for Mobile Web Track, July 2021
-#### OSCA(Open Source Community Africa)
--   Chapter Lead [@osca_adoekiti](https://twitter.com/osca_adoekiti)
-#### NoGoFallMaga
--   Volunteer [@nogofallmaga](http://twitter.com/nogofallmaga)
-#### Diary Of Hackers(DoH)
--   Campus Lead [@DoHEksu](https://twitter.com/DiaryOfHackers)
-#### DSC EKSU
--   Joined the 2020/2021 [DSC EKSU Core Team](https://dsc.community.dev/ekiti-state-university/)
+Volunteer Experience
+---------
+
+### Google Africa Developer Scholarship (GADS)
+
+**Mentor for Mobile Web Track**  
+_June 2020 to December 2020_
+
+### Google Africa Developer Scholarship (GADS)
+
+**Mentor for Mobile Web Track**  
+_July 2021 to December 2021_
+
+### OSCA(Open Source Community Africa)
+
+**Chapter Lead @osca_adoekiti**  
+_2012 to 2015_
+
+###  Diary Of Hackers(DoH)
+
+**Campus Lead @DoHEksu**
+
+###  GDSC(Google Developer Student Clubs) EKSU
+
+**CoreTeam Member**  
+_Joined the 2020⁄2021 [DSC EKSU Core Team](https://dsc.community.dev/ekiti-state-university/)_
+
 ## Skills 
 * * *
+- HTML/CSS
+- JavaScript
 - Web Appplication Security
 - Penetration Testing
+- Git
 - Linux
+- Firebase
+- Bootstrap
+- SEO
 - The rest will be updated soon 👀
