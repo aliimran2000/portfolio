@@ -22,8 +22,8 @@ Still Learning and Hunting
 #### Computer Science and Education
 , 2019-.
 
-Volunteer Experience
----------
+## Volunteer Experience
+* * *
 
 ### Google Africa Developer Scholarship (GADS)
 
@@ -37,16 +37,15 @@ _July 2021 to December 2021_
 
 ### OSCA(Open Source Community Africa)
 
-**Chapter Lead @osca_adoekiti**  
-_2012 to 2015_
+**Chapter Lead @oscaAdo_ekiti**  
 
 ###  Diary Of Hackers(DoH)
 
-**Campus Lead @DoHEksu**
+**Campus Lead [@DoHEksu](https://diaryofhackers.com)**
 
 ###  GDSC(Google Developer Student Clubs) EKSU
 
-**CoreTeam Member**  
+**Core Team Member**  
 _Joined the 2020⁄2021 [DSC EKSU Core Team](https://dsc.community.dev/ekiti-state-university/)_
 
 ## Skills 
