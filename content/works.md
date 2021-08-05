@@ -9,17 +9,17 @@ name = "SaintMalik"
 
 ## Paid Experience
 * * *
-#### Freelance: Pentesting
+### Freelance: Pentesting
 Freelance
 
-#### Bug Bounty Hunter
+### Bug Bounty Hunter
 HackerOne, Intigriti
 
 Still Learning and Hunting
 
 ## Education
 * * *
-#### Computer Science and Education
+### Computer Science and Education
 , 2019-.
 
 ## Volunteer Experience
@@ -50,6 +50,7 @@ _Joined the 2020⁄2021 [DSC EKSU Core Team](https://dsc.community.dev/ekiti-sta
 
 ## Skills 
 * * *
+
 - HTML/CSS
 - JavaScript
 - Web Appplication Security
