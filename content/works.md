@@ -25,25 +25,25 @@ Still Learning and Hunting
 ## Volunteer Experience
 * * *
 
-- ### Google Africa Developer Scholarship (GADS)
+### [Google Africa Developer Scholarship (GADS)](https://andela.com/alc/)
 
    **Mentor for Mobile Web Track**  
    _June 2020 to December 2020_
 
-- ### Google Africa Developer Scholarship (GADS)
+### [Google Africa Developer Scholarship (GADS)](https://andela.com/alc/)
 
    **Mentor for Mobile Web Track**  
    _July 2021 to December 2021_
 
-- ### OSCA(Open Source Community Africa)
+### [OSCA(Open Source Community Africa)](https://www.oscafrica.org/)
 
   **Chapter Lead @oscaAdo_ekiti**  
 
-- ###  Diary Of Hackers(DoH)
+###  [Diary Of Hackers(DoH)](https://diaryofhackers.com)
 
   **Campus Lead [@DoHEksu](https://diaryofhackers.com)**
 
-- ###  GDSC(Google Developer Student Clubs) EKSU
+### [GDSC(Google Developer Student Clubs) EKSU](https://dsc.community.dev/ekiti-state-university/)
 
   **Core Team Member**  
   _Joined the 2020⁄2021 [DSC EKSU Core Team](https://dsc.community.dev/ekiti-state-university/)_
