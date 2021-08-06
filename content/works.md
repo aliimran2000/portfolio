@@ -39,14 +39,14 @@ Still Learning and Hunting
 
   **Chapter Lead** _[@oscaAdo_ekiti](https://twitter.com/oscaAdo_ekiti)_ 
 
-###  [Diary Of Hackers(DoH)](https://diaryofhackers.com)
-
-  **Campus Lead** _[@DoHEksu](https://diaryofhackers.com)_
-
 ### [GDSC(Google Developer Student Clubs) EKSU](https://dsc.community.dev/ekiti-state-university/)
 
   **Core Team Member**  
   _Joined the 2020⁄2021 [DSC EKSU Core Team](https://dsc.community.dev/ekiti-state-university/)_
+
+###  [Diary Of Hackers(DoH)](https://diaryofhackers.com)
+
+  **Campus Lead** _[@DoHEksu](https://diaryofhackers.com)_
 
 ## Skills 
 * * *
