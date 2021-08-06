@@ -20,7 +20,7 @@ Still Learning and Hunting
 ## Education
 * * *
 ### Computer Science and Education
-, 2019-.
+2019 -.
 
 ## Volunteer Experience
 * * *
@@ -33,15 +33,15 @@ Still Learning and Hunting
 ### [Google Africa Developer Scholarship (GADS)](https://andela.com/alc/)
 
    **Mentor for Mobile Web Track**  
-   _July 2021 to December 2021_
+   _July 2021 to **_
 
 ### [OSCA(Open Source Community Africa)](https://www.oscafrica.org/)
 
-  **Chapter Lead @oscaAdo_ekiti**  
+  **Chapter Lead** _[@oscaAdo_ekiti](https://twitter.com/oscaAdo_ekiti)_ 
 
 ###  [Diary Of Hackers(DoH)](https://diaryofhackers.com)
 
-  **Campus Lead [@DoHEksu](https://diaryofhackers.com)**
+  **Campus Lead** _[@DoHEksu](https://diaryofhackers.com)_
 
 ### [GDSC(Google Developer Student Clubs) EKSU](https://dsc.community.dev/ekiti-state-university/)
 
