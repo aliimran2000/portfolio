@@ -258,6 +258,26 @@ pre[class*="language-"] {
 :root {
     --phoneWidth: (max-width: 684px);
     --tabletWidth: (max-width: 900px);
+    --ifm-color-primary: #0f9d58;
+    --ifm-color-primary-dark: #0d8d4f;
+    --ifm-color-primary-darker: #0d854b;
+    --ifm-color-primary-darkest: #0a6e3e;
+    --ifm-color-primary-light: #10ad61;
+    --ifm-color-primary-lighter: #11b565;
+    --ifm-color-primary-lightest: #13cc72;
+    --ifm-color-secondary: #878787;
+    --ifm-color-secondary-dark: #616161;
+    --ifm-color-secondary-darker: #2e2e2e;
+    --ifm-color-secondary-darkest: #141414;
+    --ifm-color-secondary-light: #adadad;
+    --ifm-color-secondary-lighter: #d4d4d4;
+    --ifm-color-secondary-lightest: #ededed;
+    --ifm-navbar-background-color: #141414;
+    --ifm-background-color: #141414;
+    --ifm-color-success: #0f9d58;
+    --ifm-color-warning: #f4b400;
+    --ifm-color-danger: #db4437;
+    --ifm-link-color: #0f9d58;
 }
 @font-face {
   font-family: geomanist;
@@ -635,7 +655,10 @@ h4 {
         font-size: 1.125rem;
     }
 }
-a {
+a, a:hover {
+  color: var(--ifm-alert-color);
+  text-decoration: underline;
+}{
     color: inherit;
 }
 img {
