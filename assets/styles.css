@@ -35,6 +35,8 @@ pre {
     font-size: 1em;
 }
 a {
+    color: var(--ifm-alert-color);
+    text-decoration: underline;
     background-color: transparent;
 }
 abbr[title] {
@@ -655,7 +657,7 @@ h4 {
         font-size: 1.125rem;
     }
 }
-a, a:hover {
+a {
   color: var(--ifm-alert-color);
   text-decoration: underline;
 }{
