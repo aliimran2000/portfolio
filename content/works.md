@@ -25,7 +25,7 @@ Still Learning and Hunting
 ## Volunteer Experience
 * * *
 
-- <h3>Google Africa Developer Scholarship (GADS)</h3>
+<ul><li><h3>Google Africa Developer Scholarship (GADS)</h3></li></ul>
 
 **Mentor for Mobile Web Track**  
 _June 2020 to December 2020_
