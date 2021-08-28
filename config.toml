@@ -89,7 +89,6 @@ disqusShortname = "myfoliosite"
         identifier = "blog"
         name = "Blog"
         url = "https://blog.saintmalik.me"
-        target = "_blank"
       [[languages.en.menu.main]]
         identifier = "talks"
         name = "Talks"
