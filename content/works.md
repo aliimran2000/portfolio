@@ -46,7 +46,7 @@ Still Learning and Hunting
 
 ###  [Diary Of Hackers(DoH)](https://diaryofhackers.com)
 
-  **Campus Lead** _[@DoHEksu](https://diaryofhackers.com)_
+  **Campus Lead** _[@DoHEksu](https://twitter.com/search?q=DoHEksu&s=09)_
 
 ## Skills 
 * * *
