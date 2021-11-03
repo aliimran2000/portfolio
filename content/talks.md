@@ -6,23 +6,15 @@ aliases = ["talks","presentations"]
 [ author ] 
 name = "SaintMalik"
 +++
-<!-- 
+
+***
+
+### Getting Started With Open Source | Tips and Advice
+#### OSCA Ado Ekiti.
+[Slide](https://docs.google.com/presentation/d/1CHcpUyf2OPXhLi4pVDSLAUNtkSAYWS9fNDU2xreT69Y/edit?usp=sharing)
+
 ***
 
 ### Ethical Web Hacking 101
-#### Diary of Hackers.
+####  Diary of Hackers.
 [Video](https://youtu.be/c0kw7alNzZk)
-
-***
- okay 
-
-### Ethical Web Hacking 101
-#### Diary of Hackers.
-[Video](https://youtu.be/c0kw7alNzZk)
-
-***
- 
-### Ethical Web Hacking 101
-#### Diary of Hackers.
-[Video](https://youtu.be/c0kw7alNzZk) -->
-  okay 
