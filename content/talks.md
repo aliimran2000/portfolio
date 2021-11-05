@@ -18,3 +18,10 @@ name = "SaintMalik"
 ### Ethical Web Hacking 101
 ####  Diary of Hackers.
 [Video](https://youtu.be/c0kw7alNzZk)
+
+***
+
+### All About Subdomain Takeover
+####  GreyHat Cyber Solutions.
+[Video](https://us05web.zoom.us/j/85294020790?pwd=elhxY0k5bU4rVzNnZy9tcVhHRDZHZz09)
+
