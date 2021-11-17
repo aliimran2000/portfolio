@@ -37,7 +37,7 @@ Still Learning and Hunting
 
 ### [OSCA(Open Source Community Africa)](https://www.oscafrica.org/)
 
-  **Chapter Lead** _[@oscaAdo_ekiti](https://twitter.com/osca_ado_ekiti)_ 
+  **Chapter Lead** _[@osca_ado_ekiti](https://twitter.com/osca_ado_ekiti)_ 
 
 ### [GDSC(Google Developer Student Clubs) EKSU](https://dsc.community.dev/ekiti-state-university/)
 
