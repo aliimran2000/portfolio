@@ -57,7 +57,7 @@ disqusShortname = "myfoliosite"
 [languages]
   [languages.en]
     title = "SaintMalik"
-    subtitle = "Cyber Security Analyst, Penetration Tester and Front-End Developer"
+    subtitle = "Application Security Engineer, Penetration Tester and Bug Bounty Hunter"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
