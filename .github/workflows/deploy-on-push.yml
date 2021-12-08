@@ -15,15 +15,6 @@ jobs:
           hugo-version: '0.85.0'
           # extended: true
 
-      - name: Move build to docs
-        run: cd ../
-      
-      - name: Move build to docs
-        run: pwd
-        
-      - name: Install Dependencies
-        run: npm install
-
       - name: Build site
         run: hugo
 
