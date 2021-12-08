@@ -17,6 +17,7 @@ jobs:
 
       - name: Move build to docs
         run: cd ../
+        run: pwd
       
       - name: Install Dependencies
         run: npm install
