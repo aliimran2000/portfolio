@@ -24,12 +24,3 @@ name = "SaintMalik"
 ### All About Subdomain Takeover
 ####  GreyHat Cyber Solutions.
 [Video](https://us05web.zoom.us/j/85294020790?pwd=elhxY0k5bU4rVzNnZy9tcVhHRDZHZz09)
-
----
-title: "iOS Development 101"
-subtitle: "Talk focused on basics of iOS Development and Swift language"
-event: "HackOn Hackathon"
-event-url: "https://saintmalik.me"
-location: "Remote"
-video: "https://youtu.be/c0kw7alNzZk"
----
