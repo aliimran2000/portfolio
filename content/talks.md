@@ -23,4 +23,4 @@ name = "SaintMalik"
 
 ### All About Subdomain Takeover
 ####  GreyHat Cyber Solutions.
-[Video](https://us05web.zoom.us/j/85294020790?pwd=elhxY0k5bU4rVzNnZy9tcVhHRDZHZz09)
+[Video](https://drive.google.com/file/d/1Be8dSz54Mw-z_yc2U42BzkQVqaGQTF_W/view?usp=drivesdk)
