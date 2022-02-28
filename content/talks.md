@@ -24,3 +24,15 @@ name = "SaintMalik"
 ### All About Subdomain Takeover
 ####  GreyHat Cyber Solutions.
 [Video](https://drive.google.com/file/d/1Be8dSz54Mw-z_yc2U42BzkQVqaGQTF_W/view?usp=drivesdk)
+
+***
+
+### Open Source 101
+#### OSCA Ado Ekiti .
+[Slide](https://bit.ly/saintoss1)
+
+***
+
+### Introduction to Open Source and OSCA
+#### OSCA Eldoret.
+[Video](https://bit.ly/saintoss1)

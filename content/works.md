@@ -7,20 +7,12 @@ aliases = ["works","about-me"]
 name = "SaintMalik"
 +++
 
-## Paid Experience
+## Projects
 * * *
-### Freelance: Pentesting
-Freelance
+* ###  [What If I Had Invested](https://blog.saintmalik.me/docs/ifihadinvested)
+* ###  [WaMeir - Reach out to whatsapp users without saving numbers](https://blog.saintmalik.me/docs/wamier)
 
-### Bug Bounty Hunter
-HackerOne, Intigriti
-
-Still Learning and Hunting
-
-## Education
-* * *
-### Computer Science and Education
-2019 -.
+&nbsp;
 
 ## Volunteer Experience
 * * *
@@ -29,11 +21,6 @@ Still Learning and Hunting
 
    **Mentor for Mobile Web Track**  
    _June 2020 to December 2020_
-
-### [Google Africa Developer Scholarship (GADS)](https://andela.com/alc/)
-
-   **Mentor for Mobile Web Track**  
-   _July 2021 to **_
 
 ### [OSCA(Open Source Community Africa)](https://www.oscafrica.org/)
 
@@ -52,7 +39,7 @@ Still Learning and Hunting
 * * *
 
 - HTML/CSS
-- JavaScript
+- Golang
 - Web Appplication Security
 - Penetration Testing
 - Git
