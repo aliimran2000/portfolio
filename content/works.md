@@ -33,7 +33,7 @@ name = "SaintMalik"
 
 ###  [Diary Of Hackers(DoH)](https://diaryofhackers.com)
 
-  **Campus Lead** _[@DoHEksu](https://twitter.com/search?q=DoHEksu&s=09)_
+  **Campus Lead** _[@DoHEksu](https://twitter.com/search?q=#DoHEksu&s=09)_
 
 ## Skills 
 * * *
