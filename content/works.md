@@ -10,7 +10,7 @@ name = "SaintMalik"
 ## Projects
 * * *
 * ###  [What If I Had Invested](https://blog.saintmalik.me/docs/ifihadinvested)
-* ###  [WaMeir - Reach out to whatsapp users without saving numbers](https://blog.saintmalik.me/docs/wamier)
+* ###  [WaMeir - Reach out to whatsapp users without saving numbers](https://blog.saintmalik.me/docs/wameir)
 
 &nbsp;
 
