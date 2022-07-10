@@ -1,3 +1,9 @@
+[[redirect]]
+from = "/dca/"
+to = "https://bdcatool.netlify.app/:splat"
+status = 200
+force = false
+
 [[redirects]]
 from = "/posts/"
 to = "https://blog.saintmalik.me"
@@ -27,9 +33,3 @@ from = "/example-post/"
 to = "https://blog.saintmalik.me/hello-world"
 status = 301
 force = true
-
-[[redirect]]
-from = "/dca/"
-to = "https://dca-tool.netlify.app:splat"
-status = 200
-force = false
