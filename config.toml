@@ -19,7 +19,7 @@ disqusShortname = "myfoliosite"
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "SaintMalik | Cyber Security Analyst | Bug Bounty Hunter | Penetration Tester | Bash, JavaScript, Vue.js | Security Analyst"
+  description = "SaintMalik | Application Security Engineer | Bug Bounty Hunter | Penetration Tester | Bash, Golang | Security Engineer"
   images = [""]
 
   enableRobotsTXT = true
@@ -98,10 +98,9 @@ disqusShortname = "myfoliosite"
         name = "Who am i"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "works"
-        name = "Works"
-        url = "/works"
-
+        identifier = "resume"
+        name       = "Resume"
+        url        = "https://docs.google.com/document/d/1q0NQV-D_HZPc92cVaLe3ojAZCm_1l6Eb6duu6l7ddpE/"
 
 # And you can even create generic menu
 [menu]
