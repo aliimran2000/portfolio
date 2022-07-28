@@ -3,7 +3,7 @@ title = "Works"
 description = "SaintMalik | Cyber Security Analyst | Bug Bounty Hunter | Penetration Tester | Bash, JavaScript, Vue.js | Security Analyst"
 date = "2020-06-19"
 aliases = ["works","about-me"]
-[ author ] 
+[ author ]
 name = "SaintMalik"
 +++
 
@@ -19,23 +19,24 @@ name = "SaintMalik"
 
 ### [Google Africa Developer Scholarship (GADS)](https://andela.com/alc/)
 
-   **Mentor for Mobile Web Track**  
+   **Mentor for Mobile Web Track**
    _June 2020 to December 2020_
 
 ### [OSCA(Open Source Community Africa)](https://www.oscafrica.org/)
 
-  **Chapter Lead** _[@osca_ado_ekiti](https://twitter.com/osca_ado_ekiti)_ 
+  **Chapter Lead** _[@osca_ado_ekiti](https://twitter.com/osca_ado_ekiti)_
 
 ### [GDSC(Google Developer Student Clubs) EKSU](https://dsc.community.dev/ekiti-state-university/)
 
-  **Core Team Member**  
+  **Core Team Member**
   _Joined the 2020⁄2021 [DSC EKSU Core Team](https://dsc.community.dev/ekiti-state-university/)_
 
 ###  [Diary Of Hackers(DoH)](https://diaryofhackers.com)
 
-  **Campus Lead** _[@DoHEksu](https://twitter.com/search?q=#DoHEksu&s=09)_
+  **Campus Lead** _[@DoHEksu](https://twitter.com/search?q=%23DoHEksu&src=typed_query)_
+    _January 2021 – May 2022_
 
-## Skills 
+## Skills
 * * *
 
 - HTML/CSS

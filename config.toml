@@ -37,7 +37,7 @@ disqusShortname = "myfoliosite"
   themeColor = "#151515"
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
-  
+
   # Integrate Javascript files or stylesheets by adding the url to the external assets or by
   # linking local files with their path relative to the static folder, e.g. "css/styles.css"
   customCSS = [""]
@@ -61,7 +61,7 @@ disqusShortname = "myfoliosite"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
-    
+
     [languages.en.params.logo]
       logoText = "~/saintmalik"
       logoHomeLink = "/"
@@ -102,7 +102,7 @@ disqusShortname = "myfoliosite"
         name = "Works"
         url = "/works"
 
-          
+
 # And you can even create generic menu
 [menu]
   [[menu.main]]
@@ -118,6 +118,6 @@ disqusShortname = "myfoliosite"
     name       = "Who am i"
     url        = "/about"
   [[menu.main]]
-    identifier = "works"
-    name       = "Works"
-    url        = "/works"
+    identifier = "resume"
+    name       = "Resume"
+    url        = "https://docs.google.com/document/d/1q0NQV-D_HZPc92cVaLe3ojAZCm_1l6Eb6duu6l7ddpE/"
