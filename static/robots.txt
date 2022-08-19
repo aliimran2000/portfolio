@@ -3,6 +3,9 @@ User-agent: *
 Disallow: /images/
 Disallow: /js/
 Disallow: /css/
+Disallow: /tags/
+Disallow: /series/
+Disallow: /css/
 
 User-agent: MJ12bot
 Disallow: /
@@ -60,7 +63,7 @@ Disallow: /
 
 User-agent: ZoominfoBot
 Disallow: /
- 
+
 User-agent: serpstatbot
 Disallow: /
 User-agent: SemrushBot
@@ -91,7 +94,7 @@ User-agent: LinkWalker
 Disallow: /
 User-agent: GigaBlast Spider
 Disallow: /
-User-agent: ia_archiver-web.archive.org 
+User-agent: ia_archiver-web.archive.org
 Disallow: /
 User-agent: PicScout
 Disallow: /
