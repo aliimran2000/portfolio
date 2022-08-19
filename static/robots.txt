@@ -5,7 +5,8 @@ Disallow: /js/
 Disallow: /css/
 Disallow: /tags/
 Disallow: /series/
-Disallow: /css/
+Disallow: /posts/
+Disallow: /blog/
 
 User-agent: MJ12bot
 Disallow: /

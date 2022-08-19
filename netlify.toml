@@ -10,6 +10,12 @@ to = "https://blog.saintmalik.me"
 status = 301
 force = true
 
+[[redirects]]
+from = "/blog/"
+to = "https://blog.saintmalik.me"
+status = 301
+force = true
+
 # [[redirects]]
 # from = "/bypassing-auth-by-reading-source-code/"
 # to = "https://blog.saintmalik.me/bypassing-auth-by-reading-source-code"
