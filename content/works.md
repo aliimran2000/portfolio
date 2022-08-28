@@ -1,6 +1,6 @@
 +++
 title = "Works"
-description = "SaintMalik | Cyber Security Analyst | Bug Bounty Hunter | Penetration Tester | Bash, JavaScript, Vue.js | Security Analyst"
+description = "SaintMalik | Application Security Engineer | Bug Bounty Hunter | Penetration Tester | Bash, Golang | Security Engineer"
 date = "2020-06-19"
 aliases = ["works","about-me"]
 [ author ]

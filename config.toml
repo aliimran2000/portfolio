@@ -13,7 +13,7 @@ disqusShortname = "myfoliosite"
   ProfilePicture = "../images/saintmalik2.jpeg"
 
   # Subtitle for home
-  homeSubtitle = "Doing Pentest and Application Security"
+  homeSubtitle = "Doing Pentesting and Application Security"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -26,7 +26,7 @@ disqusShortname = "myfoliosite"
   enableGitInfo   = false
   enableEmoji     = true
   enableMissingTranslationPlaceholders = false
-  disableRSS     = false
+  disableRSS     = true
   disableSitemap = false
   disable404     = false
 
