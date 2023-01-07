@@ -8,9 +8,11 @@ aliases = ["about-us","about-me","contact"]
 +++
 
 
-I'm an Applincation Security Engineer, with expertise as a Penetration Tester, formerly a Frontend Dev. before moving back to infosec.
+I am an Application Security Engineer and a Computer Science Education student, with expertise as a Penetration Tester, having reported security issues to openclassroom, andela, kuda and more.
 
-Back in my Frontend Dev career, i am a very Big Fan of javascript, most especially Vuejs, Well I developed my interest back in InfoSec, and i love working on web applications security, mobile app sec.
+Also experienced in building softwares, i was also a frontend dev at some point in time, not a big fan of css, haha, i have worked with the following technologies, vuejs, docker, kubernetes, eks, golang, bash, burp suite, terraform, hashicorp vault...
+
+Contributed to many open source projects, big advocate of open source contributions, hoping to contribute to more security open source projects.
 
 #### Book/Article Recommendations
 - [Do The Real Thing - How To Practically Learn Something](https://www.scotthyoung.com/blog/2020/0504/do-the-real-thing)
