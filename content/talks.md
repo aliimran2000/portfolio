@@ -37,4 +37,17 @@ name = "SaintMalik"
 ```
 - Host: OSCA Eldoret.
 - Recorded Session: https://bit.ly/saintoss1
+- Slide:
+```
+
+#### DevSecOps, What, Why and How
+```
+- Host: GreyHat Cyber Solutions.
+- Recorded Session: https://bit.ly/saintoss1
+- Slide: https://docs.google.com/presentation/d/1UpsmkknFwbhYxVJtnoPJDweM1g9YP4i-voDbvEr_kdk/edit?usp=sharing
+```
+
+#### How the industry works and career to follow in your tech journey
+```
+- Slide: https://docs.google.com/presentation/d/1LGdwHklmvo6GvB7iDqddq4iNVE8HpRfkFDnPGaFEMoI/edit?usp=sharing
 ```
