@@ -35,17 +35,3 @@ name = "SaintMalik"
 
   **Campus Lead** _[@DoHEksu](https://twitter.com/search?q=%23DoHEksu&src=typed_query)_
     _January 2021 – May 2022_
-
-## Skills
-* * *
-
-- HTML/CSS
-- Golang
-- Web Appplication Security
-- Penetration Testing
-- Git
-- Linux
-- Firebase
-- Bootstrap
-- SEO
-- The rest will be updated soon 👀
