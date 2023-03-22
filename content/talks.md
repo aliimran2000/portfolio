@@ -36,14 +36,14 @@ name = "SaintMalik"
 #### Introduction to Open Source and OSCA
 ```
 - Host: OSCA Eldoret.
-- Recorded Session: https://bit.ly/saintoss1
-- Slide:
+- Recorded Session: https://youtube.com/watch?v=6XKddR46Hzo&si=EnSIkaIECMiOmarE
+- Slide: https://bit.ly/saintoss1
 ```
 
 #### DevSecOps, What, Why and How
 ```
 - Host: GreyHat Cyber Solutions.
-- Recorded Session: https://bit.ly/saintoss1
+- Recorded Session:
 - Slide: https://docs.google.com/presentation/d/1UpsmkknFwbhYxVJtnoPJDweM1g9YP4i-voDbvEr_kdk/edit?usp=sharing
 ```
 
