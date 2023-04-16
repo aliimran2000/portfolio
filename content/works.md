@@ -14,7 +14,14 @@ name = "SaintMalik"
 
 &nbsp;
 
-## Volunteer Experience
+#### Volunteer Experience
+> ##### Google Africa Developer Scholarship (GADS)(https://andela.com/alc/)
+> ```
+> -  Mentor for Mobile Web Track
+> - June 2020 to December 2020
+> ```
+
+<!-- ##
 * * *
 
 ### [Google Africa Developer Scholarship (GADS)](https://andela.com/alc/)
@@ -34,4 +41,4 @@ name = "SaintMalik"
 ###  [Diary Of Hackers(DoH)](https://diaryofhackers.com)
 
   **Campus Lead** _[@DoHEksu](https://twitter.com/search?q=%23DoHEksu&src=typed_query)_
-    _January 2021 – May 2022_
+    _January 2021 – May 2022_ -->
