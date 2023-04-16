@@ -2,7 +2,7 @@ baseURL = "https://saintmalik.me"
 languageCode = "en-us"
 title = "SaintMalik"
 paginate     = 10
-googleAnalytics = "UA-123518521-4"
+googleAnalytics = "G-LYQVDXF79Z"
 disqusShortname = "myfoliosite"
 
 [params]
@@ -19,7 +19,7 @@ disqusShortname = "myfoliosite"
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "SaintMalik | Application Security Engineer | Bug Bounty Hunter | Penetration Tester | Bash, Golang | Security Engineer"
+  description = "SaintMalik | Application Security Engineer | DevSecOps | Penetration Tester | Bash, Golang | Security Engineer"
   images = [""]
 
   enableRobotsTXT = true
@@ -98,9 +98,9 @@ disqusShortname = "myfoliosite"
         name = "Who am i"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "resume"
-        name       = "Resume"
-        url        = "https://docs.google.com/document/d/1q0NQV-D_HZPc92cVaLe3ojAZCm_1l6Eb6duu6l7ddpE/"
+        identifier = "works"
+        name       = "Works"
+        url        = "/works"
 
 # And you can even create generic menu
 [menu]
