@@ -63,7 +63,7 @@ disqusShortname = "myfoliosite"
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "~/"
+      logoText = "~/aliimran"
       logoHomeLink = "/"
     # or
     #
