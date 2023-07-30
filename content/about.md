@@ -1,10 +1,10 @@
 +++
 title = "About Me"
-description = "SaintMalik | Application Security Engineer | Bug Bounty Hunter | Penetration Tester | Bash, Golang | Security Engineer"
-date = "2020-06-26"
+description = "Ali Imran | DevSecOps Engineer | Golang, Bash, Python, NodeJS | MicroServices"
+date = "2023-07-30"
 aliases = ["about-us","about-me","contact"]
 [ author ]
-  name = "SaintMalik"
+  name = "AliImran"
 +++
 
 
