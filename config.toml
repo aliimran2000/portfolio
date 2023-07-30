@@ -1,6 +1,6 @@
 baseURL = "https://saintmalik.me"
 languageCode = "en-us"
-title = "SaintMalik"
+title = "AliImran"
 paginate     = 10
 googleAnalytics = "G-LYQVDXF79Z"
 disqusShortname = "myfoliosite"
@@ -13,13 +13,13 @@ disqusShortname = "myfoliosite"
   ProfilePicture = "../images/saintmalik2.jpeg"
 
   # Subtitle for home
-  homeSubtitle = "Doing Pentesting and Application Security"
+  homeSubtitle = "DevSecOps"
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 
   # Metadata mostly used in document's head
-  description = "SaintMalik | Application Security Engineer | DevSecOps | Penetration Tester | Bash, Golang | Security Engineer"
+  description = "AliImran | Application Security Engineer | DevSecOps | Penetration Tester | Bash, Golang | Security Engineer"
   images = [""]
 
   enableRobotsTXT = true
@@ -44,7 +44,7 @@ disqusShortname = "myfoliosite"
   customJS  = []
 
 [author]
-  name = "SaintMalik"
+  name = "AliImran"
 
 [permalinks]
   posts = "/:slug"
@@ -56,14 +56,14 @@ disqusShortname = "myfoliosite"
 
 [languages]
   [languages.en]
-    title = "SaintMalik"
+    title = "AliImran"
     subtitle = "Application Security Engineer, Penetration Tester and Bug Bounty Hunter"
     keywords = ""
     copyright = ""
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "~/saintmalik"
+      logoText = "~/"
       logoHomeLink = "/"
     # or
     #
