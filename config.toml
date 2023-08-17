@@ -1,4 +1,4 @@
-baseURL = "https://saintmalik.me"
+baseURL = "https://iridescent-yeot-4f40aa.netlify.app"
 languageCode = "en-us"
 title = "AliImran"
 paginate     = 10
@@ -77,18 +77,18 @@ disqusShortname = "myfoliosite"
 
   [[languages.en.params.social]]
     name = "email"
-    url  = "mailto:msalawu5@gmail.com"
+    url  = "mailto:muhammadaliimran2000@gmail.com"
 
   [[languages.en.params.social]]
     name = "github"
-    url  = "https://github.com/saintmalik"
+    url  = "https://github.com/aliimran2000"
 
     # You can create a language based menu
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "Blog"
-        url = "https://blog.saintmalik.me"
+        url = "/blog"
       [[languages.en.menu.main]]
         identifier = "talks"
         name = "Talks"
@@ -107,7 +107,7 @@ disqusShortname = "myfoliosite"
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "https://blog.saintmalik.me"
+    url        = "https://iridescent-yeot-4f40aa.netlify.app/blog"
   [[menu.main]]
     identifier = "talks"
     name       = "Talks"
